@@ -12,14 +12,14 @@ Perform a service request data analysis of New York City 311 calls. You will foc
 Domain: Customer Service
 
 #### Analysis Tasks to be performed:
-> Import a 311 NYC service request
-? Basic data exploratory analysis 
-  o	Explore data
-  o	Find patterns
-  o	Display the complaint type and city together
-> Find major complaint types
-  o	Find the top 10 complaint types 
-  o	Plot a bar graph of count vs. complaint types
->	Visualize the complaint types
-  o	Display the major complaint types and their count
+1. Import a 311 NYC service request
+2. Basic data exploratory analysis 
+  *	Explore data
+  *	Find patterns
+  *	Display the complaint type and city together
+3. Find major complaint types
+  *	Find the top 10 complaint types 
+  *	Plot a bar graph of count vs. complaint types
+4. Visualize the complaint types
+  *	Display the major complaint types and their count
 
